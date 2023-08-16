@@ -55,6 +55,7 @@ Sign into PureVPN
 purevpn-cli -l
 ```
 * Google chrome
+
 download google chrome version 114:
 ```bash
 wget mirror.cs.uchicago.edu/google-chrome/pool/main/g/google-chrome-stable/google-chrome-stable_114.0.5735.133-1_amd64.deb
@@ -67,6 +68,7 @@ sudo dpkg -i google-chrome-stable_114.0.5735.133-1_amd64.deb
 sudo apt-get install -f
 ```
 * Webdriver
+
 set up google chrome webdriver:
 ```bash
 wget https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
